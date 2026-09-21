@@ -1,0 +1,146 @@
+[
+  {
+    "id": "claim-001",
+    "exposure": 40303,
+    "signal": 0.261,
+    "urgency": 5
+  },
+  {
+    "id": "claim-002",
+    "exposure": 61246,
+    "signal": 0.456,
+    "urgency": 1
+  },
+  {
+    "id": "claim-003",
+    "exposure": 84217,
+    "signal": 0.766,
+    "urgency": 6
+  },
+  {
+    "id": "claim-004",
+    "exposure": 21453,
+    "signal": 0.946,
+    "urgency": 6
+  },
+  {
+    "id": "claim-005",
+    "exposure": 33229,
+    "signal": 0.896,
+    "urgency": 4
+  },
+  {
+    "id": "claim-006",
+    "exposure": 89859,
+    "signal": 0.384,
+    "urgency": 6
+  },
+  {
+    "id": "claim-007",
+    "exposure": 28101,
+    "signal": 0.92,
+    "urgency": 3
+  },
+  {
+    "id": "claim-008",
+    "exposure": 37624,
+    "signal": 0.893,
+    "urgency": 5
+  },
+  {
+    "id": "claim-009",
+    "exposure": 73235,
+    "signal": 0.832,
+    "urgency": 8
+  },
+  {
+    "id": "claim-010",
+    "exposure": 71536,
+    "signal": 0.233,
+    "urgency": 7
+  },
+  {
+    "id": "claim-011",
+    "exposure": 32356,
+    "signal": 0.475,
+    "urgency": 3
+  },
+  {
+    "id": "claim-012",
+    "exposure": 89909,
+    "signal": 0.809,
+    "urgency": 1
+  },
+  {
+    "id": "claim-013",
+    "exposure": 75127,
+    "signal": 0.48,
+    "urgency": 5
+  },
+  {
+    "id": "claim-014",
+    "exposure": 79737,
+    "signal": 0.887,
+    "urgency": 1
+  },
+  {
+    "id": "claim-015",
+    "exposure": 53273,
+    "signal": 0.573,
+    "urgency": 3
+  },
+  {
+    "id": "claim-016",
+    "exposure": 65201,
+    "signal": 0.654,
+    "urgency": 8
+  },
+  {
+    "id": "claim-017",
+    "exposure": 77866,
+    "signal": 0.858,
+    "urgency": 8
+  },
+  {
+    "id": "claim-018",
+    "exposure": 7443,
+    "signal": 0.306,
+    "urgency": 4
+  },
+  {
+    "id": "claim-019",
+    "exposure": 71112,
+    "signal": 0.937,
+    "urgency": 4
+  },
+  {
+    "id": "claim-020",
+    "exposure": 70314,
+    "signal": 0.547,
+    "urgency": 1
+  },
+  {
+    "id": "claim-021",
+    "exposure": 12100,
+    "signal": 0.867,
+    "urgency": 9
+  },
+  {
+    "id": "claim-022",
+    "exposure": 57060,
+    "signal": 0.402,
+    "urgency": 7
+  },
+  {
+    "id": "claim-023",
+    "exposure": 27777,
+    "signal": 0.84,
+    "urgency": 6
+  },
+  {
+    "id": "claim-024",
+    "exposure": 64173,
+    "signal": 0.543,
+    "urgency": 5
+  }
+]
